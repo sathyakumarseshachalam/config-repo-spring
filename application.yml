@@ -7,3 +7,7 @@ logging:
     io:
       pivotal:
         training: INFO 
+        
+security:
+  basic:
+    enabled: false
